@@ -19,3 +19,4 @@
 2. branch branch.name - создать новую ветку
 3. checkout branch.name - перейти на ветку branch.name
 4. branch -d branch.name - удалить ветку
+5. checkout -b branch.name - создать новую ветку и сразу перейти на нее
