@@ -17,3 +17,4 @@
 ## Команды Git ветки
 1. branch - показать все ветки
 2. branch branch.name - создать новую ветку
+3. checkout branch.name - перейти на ветку branch.name
